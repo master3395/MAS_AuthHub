@@ -1,0 +1,10 @@
+# Secrets (never commit)
+config.php
+config.local.php
+.env
+.env.*
+
+# OS / editor
+.DS_Store
+*.swp
+*~
